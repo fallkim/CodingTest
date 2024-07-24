@@ -1,3 +1,0 @@
-*.python linguist-detectable=true
-CodingTest/** linguist-documentation=false
-CodingTest/** linguist-vendored=false
